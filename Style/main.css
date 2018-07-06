@@ -168,7 +168,7 @@ body {
 
 .active:hover {
 background: white;
-
+color: black;
 }
 
 /* two layout*/
@@ -217,6 +217,7 @@ background: white;
   padding-top: 3rem;
     width: calc((100% - 2em)/2);
     margin-left: 7rem;
+    background: whitesmoke;
 }
 
 .nav-img {
@@ -277,6 +278,7 @@ body {
 
 .active:hover {
     background: white;
+    color: black;
     
     }
 
@@ -329,6 +331,7 @@ body {
   .is-two-half{
   padding-top: 3rem;
     width: calc((100% - 2em)/2);
+    background: whitesmoke;
 }
 
 .nav-img {
@@ -385,6 +388,7 @@ body {
 
 .active:hover {
     background: white;
+    color: black;
     
     }
 
@@ -438,6 +442,7 @@ body {
   padding-top: 3rem;
     width: calc((100% - 2em)/2);
     margin-left: 10rem;
+    background: whitesmoke;
 }
 
 .nav-img {
@@ -494,6 +499,7 @@ body {
 
 .active:hover {
     background: white;
+    color: black;
     
     }
 
@@ -580,7 +586,7 @@ body {
 
     .active:hover {
         background: white;
-        
+        color: black;
         }
 
    
@@ -770,6 +776,10 @@ body{
     line-height: 1.7em;
 }
 
+.active:hover {
+    background: white;
+    color: black;
+}
 
 /* seven layout*/
 
